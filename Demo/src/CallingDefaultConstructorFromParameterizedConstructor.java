@@ -1,5 +1,5 @@
 class A{
-	A(){
+	 A(){
 		System.out.println("Default Constructor");
 	}
 	A(int x){
